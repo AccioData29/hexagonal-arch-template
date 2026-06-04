@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "AccioData29",
+  "classifications": [ "Web", "API", "Hexagonal Architecture" ],
+  "identity": "HexagonalArchTemplate",
+  "name": "Hexagonal Architecture .NET 8 API",
+  "shortName": "hexagonal-arch",
+  "description": "API REST con arquitectura hexagonal: Domain, Application, Infrastructure, Shared, Host y API. Incluye CRUD de ejemplo, Unit of Work, Generic Repository, AutoMapper y EF Core (PostgreSQL).",
+  "sourceName": "Company.ProjectName",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "guids": [
+    "A1B2C3D4-0001-0001-0001-000000000001",
+    "A1B2C3D4-0002-0002-0002-000000000002",
+    "A1B2C3D4-0003-0003-0003-000000000003",
+    "A1B2C3D4-0004-0004-0004-000000000004",
+    "A1B2C3D4-0005-0005-0005-000000000005",
+    "A1B2C3D4-0006-0006-0006-000000000006",
+    "A1B2C3D4-0007-0007-0007-000000000007"
+  ]
+}

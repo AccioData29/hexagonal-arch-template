@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- AutoMapper CVE sin parche disponible en versiones compatibles con .NET 8 -->
+    <NoWarn>$(NoWarn);NU1903</NoWarn>
+  </PropertyGroup>
+</Project>

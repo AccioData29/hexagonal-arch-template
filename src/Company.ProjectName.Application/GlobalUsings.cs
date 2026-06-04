@@ -1,0 +1,9 @@
+global using AutoMapper;
+global using Company.ProjectName.Application.Dto.Requests;
+global using Company.ProjectName.Application.Dto.Responses;
+global using Company.ProjectName.Application.Exceptions;
+global using Company.ProjectName.Application.Interfaces;
+global using Company.ProjectName.Application.Interfaces.Repositories;
+global using Company.ProjectName.Application.Interfaces.Services;
+global using Company.ProjectName.Domain.Entities;
+global using Company.ProjectName.Domain.Enums;

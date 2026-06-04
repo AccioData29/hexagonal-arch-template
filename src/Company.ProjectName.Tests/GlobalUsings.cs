@@ -1,0 +1,15 @@
+global using Xunit;
+global using Moq;
+global using FluentAssertions;
+global using AutoMapper;
+global using Company.ProjectName.Application.Dto.Requests;
+global using Company.ProjectName.Application.Dto.Responses;
+global using Company.ProjectName.Application.Exceptions;
+global using Company.ProjectName.Application.Interfaces;
+global using Company.ProjectName.Application.Mappings;
+global using Company.ProjectName.Application.Services;
+global using Company.ProjectName.Domain.Entities;
+global using Company.ProjectName.Domain.Enums;
+global using Company.ProjectName.Infraestructure.Persistence;
+global using Company.ProjectName.Infraestructure.UnitOfWork;
+global using Company.ProjectName.Tests.Helpers;

@@ -1,0 +1,13 @@
+global using Microsoft.AspNetCore.Builder;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.OpenApi.Models;
+global using Newtonsoft.Json;
+global using Company.ProjectName.Application.Interfaces;
+global using Company.ProjectName.Application.Interfaces.Services;
+global using Company.ProjectName.Application.Mappings;
+global using Company.ProjectName.Application.Services;
+global using Company.ProjectName.Infraestructure.Persistence;
+global using Company.ProjectName.Infraestructure.UnitOfWork;

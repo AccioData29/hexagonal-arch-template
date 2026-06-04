@@ -1,0 +1,9 @@
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Company.ProjectName.Application.Exceptions;
+global using Company.ProjectName.Application.Interfaces;
+global using Company.ProjectName.Application.Interfaces.Repositories;
+global using Company.ProjectName.Domain.Entities;
+global using Company.ProjectName.Domain.Enums;
+global using Company.ProjectName.Infraestructure.Persistence;
+global using Company.ProjectName.Infraestructure.Repositories;
